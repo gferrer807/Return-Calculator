@@ -1,0 +1,9 @@
+Simple return calculator. I hope to implement this via a web application
+
+Some fixes that need to be addressed
+-Currently no way to deny weekly amount without program exiting
+-Would like to add a randomization factor. Daily percentages are never static
+-Less verbose. Going past 80 chars on 1 line is too much
+-more tbd...
+
+Hope whoever uses this likes it :)
